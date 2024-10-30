@@ -1,0 +1,43 @@
+
+/* admin styles  */
+.sortable_headings {
+  	margin-left: 6em;
+}
+
+.sortable_move_handle {
+  	background-image: url( 'images/move.png' );
+	background-repeat: no-repeat;
+	background-position: left center;
+	width: 4em;
+	margin-right: 1em;
+	cursor: move;
+	float:left;
+}
+
+.sortable_li_class {
+  	clear: both;
+  	padding: 0.25em 0em 0.5em 1em;
+	border: 1px solid #eee;
+}
+.sortable_ul_class {
+  	clear:both;
+  	overflow-y:scroll;
+	-ms-overflow-y: scroll;
+	overflow-x: hidden;
+	-ms-overflow-x: hidden;
+	height: 30em;
+}
+
+h4.sortable_heading,
+.sortable_key_label,
+.sortable_selected_label {
+  	width: 15em; float: left; margin: 0.25em 0em;
+}
+
+h4.sortable_heading {
+  	margin: 0em 0em 0.25em 0em;
+}
+
+.description {
+  	clear:both;
+} 

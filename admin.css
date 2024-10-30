@@ -1,0 +1,13 @@
+
+/* admin styles  */
+
+.wpcci_meta_rad_icon_label_class {
+  	width: 5em; float:left; margin: 0.25em 0em;
+}
+.wpcci_rad_icon_label_class {
+  	width: 15em; float:left; margin: 0.25em 0em;
+}
+.description {
+  	clear:both;
+	margin: 0.25em 0em;
+} 
